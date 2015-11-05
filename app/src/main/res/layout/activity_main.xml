@@ -12,4 +12,9 @@
     <EditText
         android:layout_width="20dp"
         android:layout_height="100dp" />
+
+    <TextView
+        android:layout_width="100"
+        android:layout_height="100"
+        android:text="aaa"/>
 </RelativeLayout>
